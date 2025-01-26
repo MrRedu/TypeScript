@@ -30,3 +30,11 @@
 | `null` | Nulo | Valores vacíos |
 | `undefined` | Indefinido | Valores no inicializados |
 | `never` | Nunca | Valores que nunca se ocurren |
+
+
+<h2>Colaboradores</h2>
+<div>
+  <a href="https://github.com/MrRedu/TypeScript/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=MrRedu/TypeScript" />
+  </a> 
+</div>
