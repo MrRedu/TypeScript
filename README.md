@@ -1,6 +1,21 @@
-# TypeScript
+<div align="center">
+   <br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="175" style="border-radius: 10px;" >
+   <h3 align="center">TypeScript</h3>
+</div>
 
-Lista de tipos básicos
+<details open>
+  <summary>
+    <h2>Tabla de contenidos</h2>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/MrRedu/JavaScript/tree/main/javascript/array">Tipos básicos</a>
+    </li>
+  </ul>
+</details>
+
+## Lista de tipos básicos
 | Nombre | Traducción | Representan |
 | :--- |:--- |:--- |
 | `string` | Cadena de texto | Textos |
@@ -13,5 +28,5 @@ Lista de tipos básicos
 | `unknown` | Desconocido | Una versión más segura de `any` |
 | `void` | Vacío | Ningún valor o ausencia de retorno |
 | `null` | Nulo | Valores vacíos |
-| `null` | Indefinido | Valores no inicializados |
+| `undefined` | Indefinido | Valores no inicializados |
 | `never` | Nunca | Valores que nunca se ocurren |
