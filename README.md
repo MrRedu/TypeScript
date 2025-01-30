@@ -10,7 +10,7 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/MrRedu/JavaScript/tree/main/javascript/array">Tipos básicos</a>
+      <a href="">Tipos básicos</a>
     </li>
   </ul>
 </details>
