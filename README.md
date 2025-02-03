@@ -22,7 +22,7 @@
 | `number` | Número | Números |
 | `boolean` | Booleano | Verdadero/falso |
 | `array` | Array | Agrupación de elementos | 
-| `tuple` | Tupla | _ | 
+| `tuple` | Tupla | Agrupación de elementos (array) que permite almacenar un número fijo de elementos | 
 | `enum` | Enum | _ | 
 | `any` | Cualquiera | Cualquier tipo (evita la comprobación de tipos) |
 | `unknown` | Desconocido | Una versión más segura de `any` |
